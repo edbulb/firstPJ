@@ -1,7 +1,7 @@
 <div ><img style="float:left" src="https://raw.githubusercontent.com/edbulb/firstPJ/master/img/imgXiong.png"  alt="xiongicon" /></div>    
 <div style="clear:both"></div>
 
-<font color=#FFBBFF><h1>ToXiong</h1></font>
+<div width="80%" bgcolor=#FFBBFF><font color=#FFBBFF><h1>ToXiong</h1></font></div>
 
 **第一步创建一个仓库(远程):**    
 
