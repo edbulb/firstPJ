@@ -1,7 +1,7 @@
 <div ><img style="float:left" src="https://raw.githubusercontent.com/edbulb/firstPJ/master/img/imgXiong.png"  alt="上海鲜花港 - 郁金香" /></div>    
 <div style="clear:both"></div>
 
-<table><tr><td style="text-align:left" bgcolor=#FFBBFF> <h1>ToXiong</h1></td></tr></table>
+<table><tr><td style="text-align:left" color=#FFBBFF> <h1>ToXiong</h1></td></tr></table>
 
 **第一步创建一个仓库(远程):**    
 >这个仓库必须为唯一性的（你仓库里不能有和这个相同名字的，大小写不一样可以）   
